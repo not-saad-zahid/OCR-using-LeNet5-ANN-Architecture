@@ -21,7 +21,7 @@ This project demonstrates Optical Character Recognition (OCR) using the classic 
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/not-saad-zahid/OCR_using_LeNet-5_ANN_Architecture.git
+    git clone https://github.com/not-saad-zahid/OCR-using-LeNet5-ANN-Architecture.git
     ```
 2. Open the notebooks in Jupyter Notebook or JupyterLab.
 3. Follow the step-by-step instructions to run the model and experiment with OCR.
